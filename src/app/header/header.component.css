@@ -1,0 +1,10 @@
+.top-right-icons {
+   display: inline;
+   position: relative;
+}
+
+.notification {
+   position: absolute;
+   right: -11px;
+   top: -10px;
+}
