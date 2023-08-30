@@ -3,9 +3,8 @@
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    height: 39vh;
     width: 100%;
-    padding: 12vh 0 0 0;
+    padding: 12vh 0 12vh 0;
 }
 
 .icon-1 {
